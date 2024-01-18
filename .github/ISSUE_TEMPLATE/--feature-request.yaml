@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest a feature to improve Plane
 title: "[Feature]: "
-labels: [feature]
+labels: [enhancement]
 assignees: [pablohashescobar]
 
 body:
